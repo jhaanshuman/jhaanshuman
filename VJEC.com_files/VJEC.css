@@ -1,0 +1,155 @@
+
+*{
+  color:Black;
+  background-color:#668877;
+  }
+a{
+  margin-top:1px;
+  margin-left:700px;
+  positioning:relative;
+  }
+
+a:hover{
+       color:blue;
+       }
+
+a:visited{
+        color:#c6f246;
+         } 
+
+a:link{
+       color:Yellow;
+      }
+#bar{
+     display:inline-block;
+     text-align:center;
+     
+     height:20px;
+     width:130px;
+     background-color:blue;
+     position:absolute;
+     margin-top:250px;
+     margin-left:819px;
+     
+    }
+   
+h1{
+     background-color:#cc0000;
+     border-radius:1px;
+     text-align:center;
+     border:2px;
+     colour:silver;
+     height:50px;
+     width:1480px;
+     display:block;
+     position:fixed;
+     z-index:1;
+     margin-left:-10px;
+     margin-top:-10px;
+     font-family:Courier;
+     /*font-size:20px;*/
+     /*text-decoration:underline;*/
+     }
+
+img{
+    border:black;
+    border-radius:1px solid black;
+    margin-top:40px;
+    /*height:200px;
+    width:1200px;*/
+   }
+img:hover{
+      border:1px;
+       }
+h6{
+
+     border:2px black;
+     border-radius:2px;
+     display:inline-block;
+     background-color:silver;
+     color:Black;
+     position:absolute;
+     height:20px;
+     width:310px;
+     font-size:20px;
+     margin-top:40px;
+     margin-left:220px; 
+      }
+p1{
+     border:2px dashed #bb4362;
+     border-radius:2px;
+     display:inline-block;
+     background-color:White;
+     color:black;
+     position:absolute;
+     height:20px;
+     width:300px;
+     margin-top:387px;
+     margin-left:190px; 
+      }
+#logo{
+    height:100px;
+    width:100px;
+    margin-top:50px;
+    margin-left:850px;
+    position:absolute;
+    }
+#beta{
+     text-align:center;
+     border:2px solid green;
+     border-radius:2px;
+     display:inline-block;
+     background-color:silver;
+     color:Black;
+     position:absolute;
+     height:20px;
+     width:140px;
+     font-size:20px;
+     margin-top:170px;
+     margin-left:820px; 
+      } 
+#sulphur{
+      position:absolute;
+      margin-top:2px;
+      margin-left:-10px;
+      background-color:red;
+      height:40px;
+      width:1400px;
+      border-radius:1px;
+      
+      }
+
+.menu{
+     text-align:center;
+     display:inline-block;
+     position:related;
+     
+     margin-top:9px;
+     margin-left:70px;
+     text-formatting:underline;
+     height:25px;
+     width:138px;
+     color:yellow;
+     border:7px black;
+     border-radius:1px;
+     background-color:Blue;
+     }
+div>a{
+      text-align:center;
+     display:inline-block;
+     position:absolute;
+     
+     margin-top:9px;
+     margin-left:50px;
+     text-formatting:underline;
+     height:25px;
+     width:138px;
+     color:yellow;
+     border:7px black;
+     border-radius:1px;
+     background-color:Blue;
+     }
+#soro{
+     margin-left:-20px;
+     margin-top:44px;
+     }
